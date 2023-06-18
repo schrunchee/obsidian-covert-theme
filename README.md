@@ -10,3 +10,5 @@ Also, as this is just a theme CSS change, let me make it clear that there is no 
 That being said, enjoy writing in a more covert fashion!
 
 Built off of the [Obsidian Nord](https://github.com/insanum/obsidian_nord) theme by Insanum. Thank you!
+
+![](obsidian_covert_theme_by_schrunchee.jpg)
