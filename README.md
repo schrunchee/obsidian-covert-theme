@@ -1,4 +1,4 @@
-# obsidian-covert-theme
+# Covert - A Dark Obsidian Theme
 When you're in a coffeehouse or library, or just in public, but you want to work in [Obsidian](https://obsidian.md/), this theme is exactly what you need if you **want to write in private**.
 As you can see below, this theme has a dark background, and the text is only a bit lighter than the background making it hard to read at a distance.
 
