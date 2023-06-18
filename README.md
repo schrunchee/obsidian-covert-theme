@@ -7,7 +7,7 @@ General suggestions would be to:
 - Turn down your screen brightness to where the text is just visable to you, right in front of the screen.
 
 Keep in mind that this doesn't fully hide your text, but makes it a lot harder to see for the nosey person sitting at that table behind you.
-Also, as this is just a theme CSS change, let me make it clear that there is no type of encryption on your files, or any other mechanism to keep your data secret should someone else have access to the device Obsidian is running on.
+Also, as this is just a theme using CSS to make the dark style, let me make it clear that there is no type of encryption on your files, or any other mechanism to keep your data secret should someone else have access to the device Obsidian is running on.
 
 That being said, enjoy writing in a more covert fashion!
 
