@@ -3,7 +3,7 @@ When you're in a coffeehouse or library, or just in public, but you want to work
 As you can see below, this theme has a dark background, and the text is only a bit lighter than the background making it hard to read at a distance.
 
 General suggestions would be to:
-- Use with a smaller font that can be changed in the Obsidian Settings
+- Use with a smaller font size that can be changed in the Obsidian Settings
 - Turn down your screen brightness to where the text is just visable to you, right in front of the screen.
 
 Keep in mind that this doesn't fully hide your text, but makes it a lot harder to see for the nosey person sitting at that table behind you.
